@@ -1,9 +1,11 @@
+package com.sd.ch8;
 public  class Point {
--x:int
--y:int
-}
+private -x:int
+private -y:int
+
 public class Circle {
--radius:double
-+getArea():double
+this.x=x;
+this.y=y;
+
 }
-Point<|--Circle
+}
